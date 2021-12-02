@@ -18,7 +18,7 @@ Le but final ? Permettre d'avoir une gestion claire et simplfié des risques tou
 
 www.mavalisecurite.com
 
-ATTENTION: Site encore en construction et non accessible à date, plus d'informations à venir sur le LinkedIn: https://www.linkedin.com/company/mavalisecurite
+ATTENTION: Site encore en construction et non accessible à date, plus d'informations à venir sur LinkedIn: https://www.linkedin.com/company/mavalisecurite
 
 Besoin de plus d'informations ? 
 developpement@mavalisecuritedev.com
