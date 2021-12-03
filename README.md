@@ -4,7 +4,7 @@ En quelques mots:
 
 Personnellement c'est mon premier (gros) projet en tant que développeur et le travail fourni m'a permis de découvrir de nombreuses choses et de développer mes compétences.
 
-Le développement est basé sur une conception front end et back from scratch autour de technologies communes (HTML/CSS/JS et PHP/MySQL) et sur l'utilisation de bibliothèque open source (Chart.JS, animate.css...), la conception a été en grande partie influencé par une logique d'utilisation client, c'est à dire en pensant non pas comme un développeur mais comme un potentiel utilisateur. Cela a été possible grâce à de nombreux test d'utilisation en condition réelle afin d'être au plus près de ce que l'on attend d'un outil comme celui-ci.
+Le développement est basé sur une conception front end et back from scratch autour de technologies communes (HTML/CSS/JS et PHP/MySQL) et sur l'utilisation de bibliothèque open source (Chart.JS, animate.css...), la conception a été en grande partie influencé par une logique d'utilisation client, c'est à dire en pensant non pas comme un développeur mais comme un potentiel utilisateur. Cela a été possible grâce à de nombreux tests d'utilisation en condition réelle afin d'être au plus près de ce que l'on attend d'un outil comme celui-ci.
 
 MaValiSecurite c'est quoi ?
 
@@ -13,7 +13,7 @@ C'est une application intuitive de gestion des risques HSE qui permet d'identifi
 
 De plus, l'application permet de rendre accessible la gestion des risques pour tous au travers d'une interface ergonomique tout en profiatnt d'un système de notation de l'ensemble des risques.
 
-Le but final ? Permettre d'avoir une gestion claire et simplfié des risques tout en permettant d'être en conformité avec le code du travail avec la possibilité d'éditer son Document Unique.
+Le but final ? Permettre d'avoir une gestion claire et simplifié des risques tout en permettant d'être en conformité avec le code du travail en ayant la possibilité d'éditer son Document Unique.
 
 
 www.mavalisecurite.com
