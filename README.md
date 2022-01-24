@@ -10,15 +10,23 @@ MaValiSecurite c'est quoi ?
 
 C'est une application intuitive de gestion des risques HSE qui permet d'identifier et évaluer les risques santé et sécurité d'une société en produisant un plan d'action donnant accès à la budgétisation, la planification et le pilotage des actions.
 
-
-De plus, l'application permet de rendre accessible la gestion des risques pour tous au travers d'une interface ergonomique tout en profiatnt d'un système de notation de l'ensemble des risques.
+De plus, l'application permet de rendre accessible la gestion des risques pour tous au travers d'une interface ergonomique tout en profiatnt d'un système de notation de l'ensemble des risques en restant à des tarifs avantageux afin de rendre disponible l'outil pour toutes entreprises.
 
 Le but final ? Permettre d'avoir une gestion claire et simplifié des risques tout en permettant d'être en conformité avec le code du travail en ayant la possibilité d'éditer son Document Unique.
 
+De nombreuses fonctionnalités sont disponibles:
+ - Gestion des risques avec évaluation.
+ - Ajout des actions pour chaque risques avec affectation à un pilote.
+ - Notification par email automatique 7 jours avant expiration du délai et en cas de délai dépassé.
+ - Possibilité de notifier par email ses collaborateurs sur les actions en cours.
+ - Gestion des droits pour chaque collaborateur afin de mieux gérer son équipe.
+ - Édition du Document Unique reprenant les données qui ont été ajouté avec un historique disponible sans limitation de durée.
+ 
+ Cette application connaitra de nouvelles évolutions dans les mois à venir car nous souhaitons fournir un service répondant pleinement aux attentes de nos clients.
 
 www.mavalisecurite.com
 
 ATTENTION: Site encore en construction et non accessible à date, plus d'informations à venir sur LinkedIn: https://www.linkedin.com/company/mavalisecurite
 
-Besoin de plus d'informations ? 
+Besoin de plus d'informations ? Des idées d'améliorations ?
 developpement@mavalisecuritedev.com
