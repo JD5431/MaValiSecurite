@@ -21,6 +21,7 @@ De nombreuses fonctionnalités sont disponibles:
  - Possibilité de notifier par email ses collaborateurs sur les actions en cours.
  - Gestion des droits pour chaque collaborateur afin de mieux gérer son équipe.
  - Édition du Document Unique reprenant les données qui ont été ajouté avec un historique disponible sans limitation de durée.
+ - Paiement par devis / virement ou avec la solution stripe.
  
  Cette application connaitra de nouvelles évolutions dans les mois à venir car nous souhaitons fournir un service répondant pleinement aux attentes de nos clients.
 
