@@ -28,7 +28,7 @@ Cette application connaitra de nouvelles évolutions dans les mois à venir car 
 
 www.mavalisecurite.com
 
-ATTENTION: Site encore en construction et non accessible à date, plus d'informations à venir sur LinkedIn: https://www.linkedin.com/company/mavalisecurite
+LinkedIn: https://www.linkedin.com/company/mavalisecurite
 
 Besoin de plus d'informations ? Des idées d'améliorations ?
 developpement@mavalisecuritedev.com
